@@ -11,6 +11,7 @@ From future updates:
    You can see my updates here: www.linkedin.com/in/martin-daniels-a6b2b7269
 
 Average operating time is:
+
 ![Снимок экрана от 2024-02-25 22-16-19](https://github.com/Martin13025/GamesCrown-Game-Site/assets/115161917/33d4d2ce-b575-402b-bced-950f87e4d640)
 
 
