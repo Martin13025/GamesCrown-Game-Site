@@ -18,7 +18,6 @@ function Main() {
         width: '250px',
         height: '340px'
       };
-    
   return (
     <div className='Main'>
         <div className='item1'>
