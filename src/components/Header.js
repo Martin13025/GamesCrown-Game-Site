@@ -5,15 +5,14 @@ import '../components/Sidebar.css'
 
 
 function Header() {
-
   return (
     <div className="Head">
       <header id='up'>
         <h1>Games crown</h1>
-          <form>
+        <form>
             <input type='text' placeholder='   I want...' autoComplete='on'></input>
             <button>Search</button>
-          </form>
+        </form>
         <nav>
             <button className='button1'>2024</button><> </>
             <button className='button2'>Shooters</button><> </>
