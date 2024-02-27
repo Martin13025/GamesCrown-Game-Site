@@ -8,9 +8,7 @@
     position: absolute;
     background-color: #242424;
     font-family: Luckiest Guy;
-
 }
-
 footer p {
     color: white;
     width: 50%;
@@ -23,7 +21,6 @@ footer p {
     -webkit-text-stroke-width: 0.5px;
     font-size:  25px;
 }
-
 .Footer h1 {
     -webkit-text-stroke-color: white;
     -webkit-text-stroke-width: 3.5px;
