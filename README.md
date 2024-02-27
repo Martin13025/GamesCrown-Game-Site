@@ -1,4 +1,14 @@
-'Gamescrown site'
+This site was created like a game sales site or something like that. The project took a little over a week, including the development of the layout.
+From future updates:
+   1 - Filtering of game cards by search with their relevant location will be added.
+   2 - Perhaps the adaptive design system will be slightly improved, although the adaptation was completed successfully and this project is not “mobile-first”.
+   3 - A system of modal windows will be added to interact with the main content. The modal window will have a description of the product card (game).
+   
+   You can see my updates here: www.linkedin.com/in/martin-daniels-a6b2b7269
+
+Average operating time is:
+![Снимок экрана от 2024-02-25 22-16-19](https://github.com/Martin13025/GamesCrown-Game-Site/assets/115161917/33d4d2ce-b575-402b-bced-950f87e4d640)
+
 
 # Getting Started with Create React App
 
