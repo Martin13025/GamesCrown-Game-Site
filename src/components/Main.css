@@ -1,0 +1,70 @@
+.Main {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
+    gap: 15px;
+    padding: 25px;
+}
+.item1 {
+    width: 255px;
+    height: 345px;
+    border: 3px solid black;
+    margin: auto;
+    border-radius: 14px;
+    padding: 0px;
+}
+.item2 {
+    width: 255px;
+    height: 345px;
+    border:3px solid black;
+    margin: auto;
+    border-radius: 14px;
+    padding: 0px;
+}
+.item3 {
+    width: 255px;
+    height: 345px;
+    border:3px solid black;
+    margin: auto;
+    border-radius: 14px;
+    padding: 0px;
+}
+.item4 {
+    width: 255px;
+    height: 345px;
+    border:3px solid black;
+    margin: auto;
+    border-radius: 14px;
+    padding: 0px;
+}
+.item5 {
+    width: 255px;
+    height: 345px;
+    border:3px solid black;
+    margin: auto;
+    border-radius: 14px;
+    padding: 0px;
+}
+.item6 {
+    width: 255px;
+    height: 345px;
+    border:3px solid black;
+    margin: auto;
+    border-radius: 14px;
+    padding: 0px;
+}
+.item7 {
+    width: 255px;
+    height: 345px;
+    border:3px solid black;
+    margin: auto;
+    border-radius: 14px;
+    padding: 0px;
+}
+.item8 {
+    width: 255px;
+    height: 345px;
+    border:3px solid black;
+    margin: auto;
+    border-radius: 14px;
+    padding: 0px;
+}
