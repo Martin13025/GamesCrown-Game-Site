@@ -13,7 +13,7 @@ import image8 from '../image/GODOFWAR.webp';
 
 
 function Main() {
-    const imageStyle = {
+  const imageStyle = {
         borderRadius: '10px',
         width: '250px',
         height: '340px'
