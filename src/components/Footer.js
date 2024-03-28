@@ -5,7 +5,7 @@ import easteregg from '../image/CATEGG.gif'
 
 
 function Footer() {
-    const imageCat = {
+  const imageCat = {
         borderRadius: '5px',
         width: '200px',
         height: '240px',
