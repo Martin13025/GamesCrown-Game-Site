@@ -9,9 +9,6 @@ import image6 from '../image/SKYRIM.jpg';
 import image7 from '../image/ENLISTED.jpg';
 import image8 from '../image/GODOFWAR.webp';
 
-
-
-
 function Main() {
   const imageStyle = {
         borderRadius: '10px',
