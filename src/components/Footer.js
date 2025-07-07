@@ -2,8 +2,6 @@ import React from 'react';
 import './Footer.css';
 import easteregg from '../image/CATEGG.gif'
 
-
-
 function Footer() {
   const imageCat = {
         borderRadius: '5px',
